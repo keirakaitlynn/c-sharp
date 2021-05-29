@@ -1,0 +1,16 @@
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.AssemblyInfoInputs.cache
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.AssemblyInfo.cs
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.exe
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.deps.json
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.runtimeconfig.json
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.runtimeconfig.dev.json
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.dll
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\LabAssignment2.pdb
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\IntegerSetLibrary.dll
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\bin\Debug\netcoreapp3.1\IntegerSetLibrary.pdb
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.csproj.CopyComplete
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.dll
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.pdb
+C:\Users\keira\source\repos\LabAssignment2\LabAssignment2\obj\Debug\netcoreapp3.1\LabAssignment2.genruntimeconfig.cache

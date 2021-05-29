@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TndTqpgju3+Bhq5S32a8xxWE1Dk9OryYYb+9mzxhdhNxlCqIJZkDgqVkTrlT+LQ/70qJlhgu/CACLLTyE1+opw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keira\\Downloads\\Lab2-UsingLibraries-IntegerSets\\LabAssignment2\\LabAssignment2\\LabAssignment2\\LabAssignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\keira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

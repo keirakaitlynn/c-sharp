@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrOm9vLLN9YTt0rApDmj5qu8EH86VTo0SyyaIz6VZcOv9zfCH8aQol8dPoLrj5jbMNdAVg0Dafeb921U26ulJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keira\\Downloads\\Lab3\\StockApp\\Stock\\StockLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\keira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

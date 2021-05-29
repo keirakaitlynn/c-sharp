@@ -1,0 +1,16 @@
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.pdb
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\MyCalculator.pdb
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csproj.CopyComplete
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.pdb

@@ -1,0 +1,16 @@
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\BankTests.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\BankTests.pdb
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Bank.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Bank.pdb
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\keira\source\repos\test\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\keira\source\repos\test\Bank\BankTests\obj\Debug\BankTests.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\test\Bank\BankTests\obj\Debug\BankTests.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\test\Bank\BankTests\obj\Debug\BankTests.csproj.CopyComplete
+C:\Users\keira\source\repos\test\Bank\BankTests\obj\Debug\BankTests.dll
+C:\Users\keira\source\repos\test\Bank\BankTests\obj\Debug\BankTests.pdb

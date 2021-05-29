@@ -1,0 +1,6 @@
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+C:\Users\keira\source\repos\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb

@@ -1,0 +1,9 @@
+C:\Users\keira\source\repos\StockApp\Stock\bin\Debug\netstandard2.0\StockLibrary.deps.json
+C:\Users\keira\source\repos\StockApp\Stock\bin\Debug\netstandard2.0\StockLibrary.dll
+C:\Users\keira\source\repos\StockApp\Stock\bin\Debug\netstandard2.0\StockLibrary.pdb
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.AssemblyInfoInputs.cache
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.AssemblyInfo.cs
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.dll
+C:\Users\keira\source\repos\StockApp\Stock\obj\Debug\netstandard2.0\StockLibrary.pdb

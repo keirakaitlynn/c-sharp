@@ -1,0 +1,16 @@
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.exe
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.deps.json
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.runtimeconfig.json
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.runtimeconfig.dev.json
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.dll
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockApplication.pdb
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockLibrary.dll
+C:\Users\keira\source\repos\StockApp\StockApplication\bin\Debug\netcoreapp3.1\StockLibrary.pdb
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.AssemblyInfoInputs.cache
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.AssemblyInfo.cs
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.csproj.CopyComplete
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.dll
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.pdb
+C:\Users\keira\source\repos\StockApp\StockApplication\obj\Debug\netcoreapp3.1\StockApplication.genruntimeconfig.cache

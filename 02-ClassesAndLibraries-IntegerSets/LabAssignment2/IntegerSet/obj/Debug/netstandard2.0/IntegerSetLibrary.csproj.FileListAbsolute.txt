@@ -1,0 +1,9 @@
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\bin\Debug\netstandard2.0\IntegerSetLibrary.deps.json
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\bin\Debug\netstandard2.0\IntegerSetLibrary.dll
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\bin\Debug\netstandard2.0\IntegerSetLibrary.pdb
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.csprojAssemblyReference.cache
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.AssemblyInfoInputs.cache
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.AssemblyInfo.cs
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.dll
+C:\Users\keira\source\repos\LabAssignment2\IntegerSet\obj\Debug\netstandard2.0\IntegerSetLibrary.pdb

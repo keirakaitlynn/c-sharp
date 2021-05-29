@@ -1,0 +1,11 @@
+﻿@model MovieKW
+@{
+    ViewBag.Title = "Delete Movie";
+}
+<h2>Confirm Deletion</h2>
+<h3>@Model.Name (@Model.Year)</h3>
+<form asp-action="DeleteKW" method="post">
+    <input type="hidden" asp-for="MovieId" />
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-controller="HomeKW" asp-action="IndexKW" class="btn btn-primary">Cancel</a>
+</form>

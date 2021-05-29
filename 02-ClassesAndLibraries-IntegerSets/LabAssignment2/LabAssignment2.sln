@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabAssignment2", "LabAssignment2\LabAssignment2.csproj", "{26EB9478-DB4F-44A6-9634-2412461EEA39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerSetLibrary", "IntegerSet\IntegerSetLibrary.csproj", "{14105BB8-B19E-4EE2-B6E7-511D88AA5E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26EB9478-DB4F-44A6-9634-2412461EEA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EB9478-DB4F-44A6-9634-2412461EEA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EB9478-DB4F-44A6-9634-2412461EEA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EB9478-DB4F-44A6-9634-2412461EEA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14105BB8-B19E-4EE2-B6E7-511D88AA5E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14105BB8-B19E-4EE2-B6E7-511D88AA5E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14105BB8-B19E-4EE2-B6E7-511D88AA5E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14105BB8-B19E-4EE2-B6E7-511D88AA5E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51117C86-9FEC-46F1-A383-5F4EC5D96975}
+	EndGlobalSection
+EndGlobal
